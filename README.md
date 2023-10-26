@@ -1,2 +1,2 @@
 # Interactive-Quiz-App
-I developed this Interactive quiz project by using html , css and javascript.
+I have developed this Interactive quiz project by using html , css and javascript.
